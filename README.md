@@ -10,3 +10,5 @@ springversion = 4.6.RELEASE
 
 #add software version
 fastuiversion=1.0
+
+test git branch
